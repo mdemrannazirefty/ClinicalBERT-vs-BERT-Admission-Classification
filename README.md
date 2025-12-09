@@ -120,10 +120,6 @@ Run the notebook:
 ```
 jupyter notebook clinicalbert_vs_bert_admission_classification.ipynb
 ```
----
-# 📊 Result Overview
-
-![ClinicalBERT-vs-BERT-Admission-Classification](https://github.com/mdemrannazirefty/ClinicalBERT-vs-BERT-Admission-Classification/blob/0ca21e923809c052b21d4063de454bf1eeebb4e8/Result.png)
 
 ---
 # 🧑‍💻 Author
